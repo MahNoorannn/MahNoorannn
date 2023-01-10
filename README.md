@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/mahnoor-mahnoor-24a0761a3/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-instagram-URL">
